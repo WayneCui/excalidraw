@@ -1,7 +1,7 @@
 /* http://www.eaglefonts.com/fg-virgil-ttf-131249.htm */
 @font-face {
   font-family: "Virgil";
-  src: url("Virgil.woff2");
+  src: url("Virgil.woff2");
   font-display: swap;
 }
 
@@ -9,5 +9,12 @@
 @font-face {
   font-family: "Cascadia";
   src: url("Cascadia.woff2");
+  font-display: swap;
+}
+
+/* https://sentyfont.com/sentytea.htm */
+@font-face {
+  font-family: "SentyTEA";
+  src: url("SentyTEA.ttf");
   font-display: swap;
 }
